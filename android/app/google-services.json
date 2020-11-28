@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524602921665",
+    "firebase_url": "https://topic-6-13828.firebaseio.com",
+    "project_id": "topic-6-13828",
+    "storage_bucket": "topic-6-13828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524602921665:android:587a5fc0a6465ced4afa40",
+        "android_client_info": {
+          "package_name": "com.joshricomark.topic6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524602921665-dm72idpabfii0bli8akr0oso0ffcuvks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBej7pzCvAPWTGmBiV_ucOxrAfJzeFx2So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524602921665-dm72idpabfii0bli8akr0oso0ffcuvks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
